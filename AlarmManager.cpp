@@ -1,0 +1,4 @@
+void AlarmManager::processAlarm()
+{
+    checkAlarm();
+}
